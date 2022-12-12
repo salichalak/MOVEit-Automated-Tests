@@ -1,0 +1,4 @@
+pages\HomePageTest.class
+pages\BaseTest.class
+pages\SendPackagePageTest.class
+pages\RequestFilesPageTest.class
