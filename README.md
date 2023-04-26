@@ -1,4 +1,4 @@
-# Automated tests for MOVEit product of Progress Software [source](https://www.ipswitch.com/moveit)
+# Automated tests for MOVEit
 
 Based on Java and built on top of:
 - Selenium WebDriver
@@ -15,3 +15,5 @@ If you would like to generate a test report please use: mvn clean test site
 
 The test report with all the test data is generated to the path: move-automation-framework\target\site
 The generated test report could be accessed from "index.html" file in the folder.
+
+MOVEit is a automated and secure managed file transfers software owned by Progress Software [website](https://www.ipswitch.com/moveit)
