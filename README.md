@@ -1,6 +1,6 @@
-# Simple MOVEit Automation Framework
+# Automated tests for MOVEit product of Progress Software [source](https://www.ipswitch.com/moveit)
 
-Based on Java and built on top of solutions and tools such as:
+Based on Java and built on top of:
 - Selenium WebDriver
 - WebDriverManager 
 - JUnit
